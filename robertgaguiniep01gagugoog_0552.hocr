@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./robertgaguiniep01gagugoog_0552.png"; bbox 0 0 679 1198; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 133 959 321 1022">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 133 959 321 1022">
+     <span class='ocr_line' id='line_1_1' title="bbox 200 959 314 979; baseline 0 -16"><span class='ocrx_word' id='word_1_1' title='bbox 200 960 203 963; x_wconf 96' lang='lat'>.</span> <span class='ocrx_word' id='word_1_2' title='bbox 223 959 244 979; x_wconf 66' lang='lat'>:¹³¹</span> <span class='ocrx_word' id='word_1_3' title='bbox 271 960 275 978; x_wconf 52' lang='grc' dir='ltr'><strong><em>ζ</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 311 973 314 974; x_wconf 24' lang='lat'><em>⁷</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 133 978 308 999; baseline -0.006 -2"><span class='ocrx_word' id='word_1_5' title='bbox 133 978 308 999; x_wconf 63' lang='lat' dir='ltr'>Clkmeatlv‚m=-L1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 134 999 321 1022; baseline 0.011 -9"><span class='ocrx_word' id='word_1_6' title='bbox 134 999 197 1015; x_wconf 65' lang='lat' dir='ltr'>elem-n</span> <span class='ocrx_word' id='word_1_7' title='bbox 203 999 228 1018; x_wconf 77' lang='lat' dir='ltr'>vx,</span> <span class='ocrx_word' id='word_1_8' title='bbox 234 1004 273 1020; x_wconf 67' lang='grc' dir='ltr'>μμ,</span> <span class='ocrx_word' id='word_1_9' title='bbox 279 999 299 1017; x_wconf 82' lang='lat' dir='ltr'>u.</span> <span class='ocrx_word' id='word_1_10' title='bbox 304 1002 321 1022; x_wconf 75' lang='grc' dir='ltr'><em>η</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 679 1198">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 679 1198">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 679 1198; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 679 1198; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
